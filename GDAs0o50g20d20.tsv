@@ -1,0 +1,57 @@
+diseaseName	geneCount	geneSymbol	diseaseCount	associationType	score_gdn	score_hpo	score_conf	score_total	count_total
+cystinuria	17	SLC3A1	18	Biomarker, GeneticVariation	0.76759269054386	1.0	4.0	0.6746297667614041	0.054229934924078085
+mucopolysaccharidosis vi	6	ARSB	16	Biomarker, GeneticVariation	0.8372358506434859	0.0	4.0	0.4721301909008804	0.13736263736263735
+alkaptonuria	1	HGD	16	Biomarker, GeneticVariation	0.7338337958023621	0.0	4.0	0.3273673141233069	0.43859649122807015
+cherubism	10	SH3BP2	9	Biomarker, GeneticVariation	0.729893695887165	0.0	4.0	0.3218511742420309	0.09328358208955223
+ellis-van creveld syndrome	5	EVC	12	Biomarker, GeneticVariation	0.7239400999151979	0.0	4.0	0.31351613988127713	0.16778523489932887
+alpha-mannosidosis	1	MAN2B1	4	Biomarker, GeneticVariation	0.723685559411218	0.0	4.0	0.31315978317570514	0.7575757575757576
+guanidinoacetate methyltransferase deficiency	2	GAMT	8	Biomarker, GeneticVariation	0.720567009140187	0.0	4.0	0.3087938127962617	0.3787878787878788
+acrodermatitis enteropathica	8	SLC39A4	18	Biomarker, GeneticVariation	0.7242525685514051	0.0	3.9	0.306453595971967	0.10593220338983052
+polycystic liver disease	13	SEC63	10	Biomarker, GeneticVariation	0.51311855027103	1.0	3.6	0.2883659703794421	0.07246376811594203
+acrocallosal syndrome	5	KIF7	17	Biomarker, GeneticVariation	0.721134018280375	0.0	2.7	0.21208762559252503	0.15723270440251572
+peroxisomal acyl-coa oxidase deficiency	1	ACOX1	10	Biomarker, GeneticVariation	0.720567009140187	0.0	2.4	0.18879381279626162	0.5555555555555556
+fructose intolerance	3	ALDOB	15	Biomarker, GeneticVariation	0.6338248986287329	1.0	0.0	0.187354858080226	0.23809523809523808
+l-2-hydroxyglutaric aciduria	1	L2HGDH	8	Biomarker, GeneticVariation	0.41170102742056197	1.0	4.0	0.17638143838878673	0.6097560975609756
+globozoospermia	2	SPATA16	4	Biomarker, GeneticVariation	0.62	1.0	0.0	0.16800000000000015	0.4310344827586207
+propionic acidemia	10	PCCB	6	Biomarker, GeneticVariation	0.625103082261686	0.0	3.9	0.16764431516636025	0.09541984732824427
+occult macular dystrophy	2	RP1L1	6	Biomarker, GeneticVariation	0.622551541130843	0.0	3.9	0.16407215758318028	0.40322580645161293
+pulmonary alveolar microlithiasis	2	SLC34A2	7	Biomarker, GeneticVariation	0.621701027420562	0.0	3.9	0.16288143838878688	0.390625
+monilethrix	6	KRT86	10	Biomarker, GeneticVariation	0.624252568551405	0.0	3.8	0.158953595971967	0.14705882352941177
+brown-vialetto-van laere syndrome	4	SLC52A3	17	Biomarker, GeneticVariation	0.622268036560749	0.0	3.8	0.1561752511850485	0.18656716417910446
+maple syrup urine disease	13	BCKDHB	14	AlteredExpression, Biomarker, GeneticVariation	0.631869330704191	0.0	3.6	0.15461706298586742	0.0708215297450425
+chylomicron retention disease	9	SAR1B	8	Biomarker, GeneticVariation	0.62311855027103	0.0	3.7	0.14986597037944205	0.10373443983402489
+roberts syndrome	7	ESCO2	15	Biomarker, GeneticVariation	0.6234020548411241	0.0	3.6	0.1427628767775737	0.12195121951219513
+erythrokeratodermia variabilis	5	GJB4	15	Biomarker, GeneticVariation	0.6219845319906561	0.0	3.6	0.14077834478691842	0.16129032258064516
+enlarged vestibular aqueduct	8	FOXI1	5	Biomarker, GeneticVariation	0.41141752285046795	1.0	3.5	0.13848453199065514	0.11904761904761904
+fucosidosis	1	FUCA1	5	Biomarker, GeneticVariation	0.621417522850468	0.0	3.5	0.13248453199065535	0.7142857142857143
+holocarboxylase synthetase deficiency	3	HLCS	11	Biomarker, GeneticVariation	0.620283504570094	0.0	3.5	0.13089690639813156	0.2577319587628866
+reticular dysgenesis	4	AK2	4	Biomarker, GeneticVariation	0.621134018280375	0.0	3.4	0.1245876255925249	0.23148148148148145
+mulibrey nanism	5	TRIM37	16	Biomarker, GeneticVariation	0.633492363100041	0.0	3.1	0.11938930834005745	0.1592356687898089
+megalocornea	4	CHRDL1	7	Biomarker, GeneticVariation	0.410283504570094	1.0	3.0	0.0993969063981317	0.21929824561403508
+brody myopathy	4	ATP2A1	13	AlteredExpression, Biomarker, GeneticVariation	0.622835045700937	0.0	3.0	0.09696906398131167	0.1984126984126984
+meier-gorlin syndrome	6	ORC1	8	Biomarker, GeneticVariation	0.620850513710281	0.0	2.8	0.07919071919439347	0.15060240963855423
+cystinosis	12	CTNS	16	Biomarker, GeneticVariation	0.5383119407916339	0.0	4.0	0.053636717108287435	0.07530120481927711
+pontocerebellar hypoplasia type 2a	1	TSEN54	16	Biomarker, GeneticVariation	0.620283504570094	0.0	2.3	0.04089690639813148	0.43859649122807015
+leukodystrophy, globoid cell	9	GALC	14	Biomarker, GeneticVariation	0.7427004324999781	0.0	0.0	0.0397806054999692	0.09881422924901184
+porphyria, erythropoietic	6	UROS	8	Biomarker, GeneticVariation	0.734713273578757	0.0	0.0	0.028598583010259748	0.15060240963855423
+norrie disease	9	NDP	18	Biomarker, GeneticVariation	0.730587731010662	0.0	0.0	0.022822823414926807	0.09578544061302682
+neuraminidase deficiency with beta-galactosidase deficiency	8	CTSA	18	Biomarker, GeneticVariation	0.726520605112154	0.0	0.0	0.01712884715701546	0.10593220338983052
+schimke immunoosseous dysplasia	11	SMARCAL1	16	AlteredExpression, Biomarker, GeneticVariation	0.7262371005420609	0.0	0.0	0.01673194075888529	0.08143322475570033
+triglyceride storage disease with impaired long-chain fatty acid oxidation	3	ABHD5	19	Biomarker, GeneticVariation	0.725953595971967	0.0	0.0	0.016335034360753786	0.22123893805309736
+ocular albinism type 1	10	GPR143	12	Biomarker, GeneticVariation	0.7251030822616858	0.0	0.0	0.015144315166360167	0.09124087591240876
+giant axonal neuropathy	4	GAN	17	Biomarker, GeneticVariation	0.7242525685514051	0.0	0.0	0.013953595971966992	0.18656716417910446
+fraser syndrome	7	FREM2	8	Biomarker, GeneticVariation	0.723402054841124	0.0	0.0	0.012762876777573595	0.13089005235602094
+usher syndrome, type iiia	9	CLRN1	14	Biomarker, GeneticVariation	0.723402054841124	0.0	0.0	0.012762876777573595	0.09881422924901184
+glycogen storage disease type vii	11	PFKM	14	Biomarker, GeneticVariation	0.7231675812296279	0.0	0.0	0.012434613721479026	0.08250825082508251
+ethylmalonic encephalopathy	7	ETHE1	9	Biomarker, GeneticVariation	0.7231185502710301	0.0	0.0	0.012365970379442093	0.1295336787564767
+hypercholesterolemia, autosomal recessive	10	LDLRAP1	15	Biomarker, GeneticVariation	0.7231185502710301	0.0	0.0	0.012365970379442093	0.08928571428571429
+cleft palate x-linked	6	TBX22	14	Biomarker, GeneticVariation	0.722835045700937	0.0	0.0	0.0119690639813117	0.1404494382022472
+pyogenic arthritis, pyoderma gangrenosum, and acne	6	PSTPIP1	18	Biomarker, GeneticVariation	0.722835045700937	0.0	0.0	0.0119690639813117	0.13440860215053765
+multiple sulfatase deficiency disease	6	SUMF1	7	Biomarker, GeneticVariation	0.722551541130843	0.0	0.0	0.011572157583180198	0.1524390243902439
+short chain acyl coa dehydrogenase deficiency	5	ACADS	12	Biomarker, GeneticVariation	0.722551541130843	0.0	0.0	0.011572157583180198	0.16778523489932887
+johanson blizzard syndrome	1	UBR1	10	Biomarker, GeneticVariation	0.722268036560749	0.0	0.0	0.011175251185048474	0.5555555555555556
+ectodermal dysplasia, hypohidrotic, autosomal recessive	2	EDAR	15	Biomarker, GeneticVariation	0.7219845319906558	0.0	0.0	0.010778344786918082	0.3125
+charcot-marie-tooth disease, type 4c	1	SH3TC2	15	Biomarker, GeneticVariation	0.7217010274205621	0.0	0.0	0.010381438388786801	0.45454545454545453
+renal tubular acidosis, distal, autosomal recessive	5	ATP6V0A4	19	Biomarker, GeneticVariation	0.7217010274205621	0.0	0.0	0.010381438388786801	0.15337423312883436
+rhizomelic chondrodysplasia punctata, type 1	4	PEX7	14	Biomarker, GeneticVariation	0.7217010274205621	0.0	0.0	0.010381438388786801	0.1953125
+charcot-marie-tooth disease, type 4b1	4	MTMR2	15	Biomarker, GeneticVariation	0.7217010274205621	0.0	0.0	0.010381438388786801	0.1923076923076923
